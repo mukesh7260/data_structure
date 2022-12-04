@@ -1,0 +1,33 @@
+ 
+	# Points. 
+1. In a tree if N nodes then  N-1 edges/links. 
+2. Every child will have only one parent but parent can have multiple child. 
+3.Tree is a reverse data structure.
+
+4. Degree of nodes: - Total no. of children in any nodes. 
+5. Degree of trees: - It is the heighest degree of nodes. 
+6. Level of tree : - Top to bottom of any tree. Level counts from zero. & increment to one by one. 
+7. Height of nodes. : - edge count from leaf node to particular noedes. edge count start from one. 
+8. Height of tree : - Height of root nodes. 
+9. Depth of tree : - Total no. of edges from root nodes to particular nodes.
+
+		#  Heap  Data structure 
+
+a. Binary heap
+b. Binomial heap 
+c. Fibonacci heap 
+ 
+a. Binary heap : - complete binary tree which satisfies the heap property. 
+		
+		or 
+Property of a node in which key of every parent node need to be lesser than or equal to or greater than or equal to the child node's key. 
+
+	# min heap / min binary heap 
+
+complete binary tree , where the key of every parent node is less than or equal to child nodes key. 
+
+	# max heap / max binary heap 
+
+complete binary tree, where the key of every parent node is greater than or equal to child nodes key. 
+
+
